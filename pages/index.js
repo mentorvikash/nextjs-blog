@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>[I am web developer work with Ruby On Rails and React]</p>
-        <p>Let's learn full stack web development one on one for FREE</p>
+        <p>learn <b>Full Stack Web Development</b> Live for FREE</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
